@@ -1,2 +1,2 @@
 # Generative-AI
-workflow on Genarative AI
+workflow of Genarative AI
